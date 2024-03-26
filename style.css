@@ -1,0 +1,40 @@
+h1{
+    color:blue
+    }
+.titulo{
+    color:blueviolet
+}
+    
+header{
+   
+    background-color: pink;
+    color: palevioletred;
+    text-align:center;
+    margin:botton 50px;       
+}   
+form{
+    width: 40%;
+    margin: auto;
+    background-color: darkmagenta;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 10 px cornflowerblue(0, 0, 0, 0.1);
+
+}
+form > input{
+    width: 100%;
+    padding: 10px 0;
+    border: none;
+    border-radius: 5px;
+
+}
+button{
+    margin: 10px 0;
+    width: 100%;
+    padding: 10px;
+    background-color: cadetblue;
+    color:aqua;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
